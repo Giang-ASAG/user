@@ -50,7 +50,7 @@
 
 ## 📫 Contact Me
 
-* 📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
+* 📧 Email: [nvgiang12a102021@gmail.com](mailto:nvgiang12a102021@gmail.com)
 * 💼 GitHub: https://github.com/Giang-ASAG
 
 ---
